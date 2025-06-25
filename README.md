@@ -12,3 +12,4 @@ This repository contains the ComfyUI Fill Node Loader plugin. This plugin is des
 
 ## Usage:
 (Further usage instructions will be added here as needed.)
+[<img src="assets/Patreon.png" alt="Patreon" width="200"/>](https://www.patreon.com/c/Machinedelusions)

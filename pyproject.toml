@@ -1,0 +1,15 @@
+[project]
+name = "comfyui_fill-node-loader"
+description = "A ComfyUI plugin to simplify loading and managing custom nodes with a sidebar interface."
+version = "1.0.0"
+license = "LICENSE"
+dependencies = [""]
+
+[project.urls]
+Repository = "https://github.com/filliptm/ComfyUI_Fill-Node-Loader"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "machinedelusions"
+DisplayName = "ComfyUI_Fill-Node-Loader"
+Icon = ""

@@ -6,9 +6,5 @@ This repository contains the ComfyUI Fill Node Loader plugin. This plugin is des
 - **Node Pack Management**: Streamlines the loading of custom node packs.
 - **Sidebar Interface**: Provides an intuitive UI for interaction.
 
-## Installation:
-(Further installation instructions will be added here as needed.)
 
-## Usage:
-(Further usage instructions will be added here as needed.)
 [<img src="assets/Patreon.png" alt="Patreon" width="200"/>](https://www.patreon.com/c/Machinedelusions)

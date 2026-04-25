@@ -1,7 +1,7 @@
 [project]
 name = "comfyui_fill-node-loader"
 description = "A ComfyUI plugin to simplify loading and managing custom nodes with a sidebar interface."
-version = "1 0 1"
+version = "1.0.1"
 license = "LICENSE"
 dependencies = [""]
 
